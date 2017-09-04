@@ -15,6 +15,8 @@ Subline text
 
 Vim
 
+Linux (obvs)
+
 
 # Credits:
 Me (Tr0jn9)
