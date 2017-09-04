@@ -4,6 +4,9 @@ A Open-Source social media app.
 # Avalible soon!
 Stay tuned for updates, releases and stuff.
 
+# Join our discord!
+https://discord.gg/dMNVzvZ
+
 # Made with...
 VS Code
 
