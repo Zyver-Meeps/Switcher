@@ -1,7 +1,7 @@
 # Switcher
 A Open-Source social media app.
 
-(This is currently deafualts for cordova)
+The main code is a **www/**
 
 # Avalible soon!
 Stay tuned for updates, releases and stuff.
