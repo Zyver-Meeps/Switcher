@@ -26,4 +26,4 @@ Cordova
 
 
 # Credits:
-Me (Tr0jn9)
+Me (Tr0jn9)jefdak1la
