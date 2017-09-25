@@ -2,6 +2,7 @@
 A Open-Source social media app.
 
 The main code is a **www/**
+Plugins are at **plugins/** (Camera files, etc)
 
 # Avalible soon!
 Stay tuned for updates, releases and stuff.
