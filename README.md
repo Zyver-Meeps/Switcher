@@ -26,8 +26,17 @@ Linux (obvs)
 
 Cordova
 
+Brackets
 
 # Credits:
 Me (Tr0jn9)
 
 jefdak1la
+
+
+# Thanks to:
+ihatetomatoes.com (@ihatetomatoes) [css]
+
+w3schools.com [html]
+
+dcrazed.com [css, html, js]
