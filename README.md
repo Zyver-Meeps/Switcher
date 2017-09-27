@@ -1,5 +1,7 @@
 # Switcher
-A Open-Source social media app.
+A Open-Source social media app. Switcher/www/img/logo1.png
+Inline-style: 
+![alt text](Switcher/www/img/logo1.png "Logo Title Text 1")
 
 The main code is a **www/**
 
