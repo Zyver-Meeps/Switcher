@@ -1,9 +1,6 @@
 # Switcher
-A Open-Source social media app. Switcher/www/img/logo1.png
-Inline-style: 
-![alt text](https://github.com/Zyver-Meeps/Switcher/blob/master/www/img/logo1.png "Logo Title Text 1")
+A Open-Source social media app.
 
-The main code is a **www/**
 
 Plugins are at **plugins/** (Camera files, etc)
 
