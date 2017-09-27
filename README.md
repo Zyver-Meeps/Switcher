@@ -30,6 +30,8 @@ Brackets
 # Credits:
 Me (Tr0jn9)
 
+iLuvLinux
+
 jefdak1la
 
 
