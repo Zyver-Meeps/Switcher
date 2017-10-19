@@ -30,7 +30,7 @@ Brackets
 # Credits:
 Me (Tr0jn9)
 
-iLuvLinux
+Me (iLuvLinux)
 
 jefdak1la
 
