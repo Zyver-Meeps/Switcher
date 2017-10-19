@@ -1,3 +1,7 @@
 # READ.
 The main code for this app.
-JS at **js/** and so on....
+
+JS at **js/**
+CSS at **css/**
+
+HTML at **html/**
