@@ -3,4 +3,4 @@ simulation/* linguist-documentation
 res/* linguist-documentation
 plugins/* linguist-documentation
 merges/* linguist-documentation
-bin/*
+bin/* linguist-documentation
