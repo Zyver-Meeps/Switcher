@@ -2,8 +2,6 @@
 A Open-Source social media app. DONATE (via bitcoin): 1Gtux5WRGq6r4nMga9aMzd9nu3CV8q3wen
 
 
-Plugins are at **plugins/** (Camera files, etc)
-
 # Avalible soon!
 Stay tuned for updates, releases and stuff.
 
@@ -12,6 +10,8 @@ https://discord.gg/dMNVzvZ
 
 # Made with...
 VS Code
+
+Visual Studio
 
 Github
 
@@ -35,11 +35,11 @@ Me (iLuvLinux)
 jefdak1la
 
 
-# Thanks to:
+# Other thanks to:
 ihatetomatoes.com (@ihatetomatoes) [css]
 
 w3schools.com [html]
 
 dcrazed.com [css, html, js]
 
-http://www.iconarchive.com/show/100-flat-icons-by-graphicloads.2.html
+iconarchive.com (www.iconarchive.com/show/100-flat-icons-by-graphicloads.2.html) [Logos]
