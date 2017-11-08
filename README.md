@@ -1,7 +1,7 @@
 # Switcher
 A Open-Source social media app. DONATE (via bitcoin): 1Gtux5WRGq6r4nMga9aMzd9nu3CV8q3wen
 
-
+The main html/css/js is at **www/**
 # Avalible soon!
 Stay tuned for updates, releases and stuff.
 
