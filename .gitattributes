@@ -2,3 +2,4 @@ plugins/* linguist-documentation
 simulation/* linguist-documentation
 res/* linguist-documentation
 plugins/* linguist-documentation
+merges/* linguist-documentation
