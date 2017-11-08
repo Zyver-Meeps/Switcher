@@ -4,4 +4,3 @@ res/* linguist-documentation
 plugins/* linguist-documentation
 merges/* linguist-documentation
 bin/* linguist-documentation
-linguist-language=HTML
