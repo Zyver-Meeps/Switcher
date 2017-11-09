@@ -43,3 +43,5 @@ w3schools.com [html]
 dcrazed.com [css, html, js]
 
 iconarchive.com (www.iconarchive.com/show/100-flat-icons-by-graphicloads.2.html) [Logos]
+
+ping.js https://github.com/jdfreder/pingjs
