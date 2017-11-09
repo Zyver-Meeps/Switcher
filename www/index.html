@@ -2,9 +2,15 @@
 <html class="no-js">
 <head>
     <script src="./ping.js"></script>
-
     <meta charset="utf-8">
 
+    <script type="text/javascript">
+        ping('https://google.com/').then(function (delta) {
+            window.location.href = "home.html"
+        }).catch(function (err) {
+            
+        });
+    </script>
     <!--iOS -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/normalize.css">
