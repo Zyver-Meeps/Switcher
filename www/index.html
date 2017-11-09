@@ -1,6 +1,8 @@
 ﻿<!DOCTYPE html>
 <html class="no-js">
 <head>
+    <script src="./ping.js"></script>
+
     <meta charset="utf-8">
 
     <!--iOS -->
@@ -51,28 +53,5 @@
     </header>
     <div id="loader-wrapper">
         <div id="loader"></div>
-        <script>
-            function Pinger_ping(ip, callback) {
-
-                if (!this.inUse) {
-
-                    this.inUse = true;
-                    this.callback = callback
-                    this.ip = ip;
-
-                    var _that = this;
-
-                    this.img = new Image();
-
-                    this.img.onload = function () { _that.good(); };
-                    this.img.onerror = function () { _that.good(); };
-
-                    this.start = new Date().getTime();
-                    this.img.src = "http://google.co.nz" + ip;
-                    this.timer = setTimeout(function () { _that.bad(); }, 1500);
-
-                }
-            }
-        </script>
 </body>
 </html>
