@@ -5,6 +5,6 @@
     <AndroidEmulatorID>AndroidInstallBuildTools;Install Android build tools...</AndroidEmulatorID>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|iOS'">
-    <DebuggerFlavor>SimulateiPhone6</DebuggerFlavor>
+    <DebuggerFlavor>SimulateiPhone6Plus</DebuggerFlavor>
   </PropertyGroup>
 </Project>
