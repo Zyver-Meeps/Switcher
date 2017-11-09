@@ -7,4 +7,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|iOS'">
     <DebuggerFlavor>SimulateiPhone6Plus</DebuggerFlavor>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|iOS'">
+    <DebuggerFlavor>iOSLocalDevice</DebuggerFlavor>
+  </PropertyGroup>
 </Project>
