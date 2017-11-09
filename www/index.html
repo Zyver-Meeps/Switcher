@@ -3,12 +3,19 @@
 <head>
 
     <script src="js/sleep.js"></script>
-    <script type="text/javascript">
 
+    <script src="snackbar_error.js"></script>
+    <link rel="stylesheet"
+          type="text/css"
+          href="snackbar_error.css" />
+
+    <script type="text/javascript">
+        errorBar();
         setTimeout(function () {
             window.location.href = "home.html";
         }, 5000);
     </script>
+    <div id="snackbar">Some text some message..</div>
     <meta charset="utf-8">
     </script>
     <!--iOS -->
